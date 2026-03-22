@@ -44,7 +44,7 @@
 
     <properties>
         <jna.version>5.2.0</jna.version>
-        <slf4j.version>1.7.25</slf4j.version>
+        <slf4j.version>2.0.16</slf4j.version>
     </properties>
 
     <dependencies>
